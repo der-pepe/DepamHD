@@ -1,3 +1,9 @@
+
+# Visual Studio
+.vs
+output
+lib/SDL2/**
+
 # Prerequisites
 *.d
 
